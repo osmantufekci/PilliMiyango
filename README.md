@@ -32,5 +32,4 @@
               <p>Sorularınız için lütfen <a href="mailto:destek@millipiyangoonline.com">support@pillimiyango.com</a> adresine e-posta gönderin.</p>
           </section>
       </div>
-</body>
-</html>
+</body
