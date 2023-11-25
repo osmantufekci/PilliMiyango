@@ -1,0 +1,98 @@
+{
+    "number": "92",
+    "dateDetails": "11/17/2023",
+    "timeDetails": "20:00",
+    "winningNumber": [
+        9,
+        11,
+        12,
+        17,
+        19,
+        20,
+        21,
+        29,
+        32,
+        34,
+        39,
+        40,
+        43,
+        45,
+        48,
+        54,
+        57,
+        61,
+        64,
+        73,
+        74,
+        76
+    ],
+    "numberJolly": [],
+    "superstar": [],
+    "tableResult": [
+        {
+            "numbersMatched": "10",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "885408650"
+        },
+        {
+            "numbersMatched": "9",
+            "totalWinners": "33",
+            "prizeWinner": "8152350",
+            "prizeFound": "2690275500"
+        },
+        {
+            "numbersMatched": "8",
+            "totalWinners": "546",
+            "prizeWinner": "615900",
+            "prizeFound": "3362814000"
+        },
+        {
+            "numbersMatched": "7",
+            "totalWinners": "5083",
+            "prizeWinner": "125700",
+            "prizeFound": "6389331000"
+        },
+        {
+            "numbersMatched": "6",
+            "totalWinners": "31104",
+            "prizeWinner": "21600",
+            "prizeFound": "6718464000"
+        },
+        {
+            "numbersMatched": "0",
+            "totalWinners": "51515",
+            "prizeWinner": "18250",
+            "prizeFound": "9401487500"
+        }
+    ],
+    "winningNumberL1": [
+        9,
+        11,
+        12,
+        17,
+        19,
+        20,
+        21
+    ],
+    "winningNumberL2": [
+        29,
+        32,
+        34,
+        39,
+        40,
+        43,
+        45,
+        48
+    ],
+    "winningNumberL3": [
+        54,
+        57,
+        61,
+        64,
+        73,
+        74,
+        76
+    ],
+    "jackpot": "885408650"
+}

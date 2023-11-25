@@ -1,0 +1,72 @@
+{
+    "number": "138",
+    "dateDetails": "11/16/2023",
+    "timeDetails": "21:30",
+    "winningNumber": [
+        2,
+        9,
+        11,
+        17,
+        38,
+        42
+    ],
+    "numberJolly": [],
+    "superstar": [],
+    "tableResult": [
+        {
+            "numbersMatched": "6",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "50153939730"
+        },
+        {
+            "numbersMatched": "5",
+            "totalWinners": "9",
+            "prizeWinner": "118932950",
+            "prizeFound": "10703965500"
+        },
+        {
+            "numbersMatched": "4",
+            "totalWinners": "1004",
+            "prizeWinner": "1658400",
+            "prizeFound": "16650336000"
+        },
+        {
+            "numbersMatched": "3",
+            "totalWinners": "23801",
+            "prizeWinner": "84900",
+            "prizeFound": "20207049000"
+        },
+        {
+            "numbersMatched": "2",
+            "totalWinners": "216611",
+            "prizeWinner": "9850",
+            "prizeFound": "21336183500"
+        }
+    ],
+    "winningNumberL1": [
+        2,
+        9,
+        11,
+        17,
+        38,
+        42
+    ],
+    "winningNumberL2": [
+        2,
+        9,
+        11,
+        17,
+        38,
+        42
+    ],
+    "winningNumberL3": [
+        2,
+        9,
+        11,
+        17,
+        38,
+        42
+    ],
+    "jackpot": "50153939730"
+}

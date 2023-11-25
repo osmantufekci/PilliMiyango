@@ -1,0 +1,21 @@
+
+{
+    "id": "104",
+    "jackpotTotal": "227232460",
+    "latestDraw": [
+        3,
+        7,
+        18,
+        20,
+        25
+    ],
+    "latestDrawNumber": 91,
+    "latestDrawDate": "11/12/2023",
+    "latestDrawTime": "20:00",
+    "nextDrawNumber": 92,
+    "numberJolly": [
+        10
+    ],
+    "currentDate": "2023-11-14T14:42:08.559222",
+    "drawTimestamp": 1700067600000
+}

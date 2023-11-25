@@ -1,0 +1,154 @@
+{
+    "number": "72",
+    "dateDetails": "09/09/2023",
+    "timeDetails": "17:30",
+    "firstCategoryName": "12000000TL Kazanan Numara",
+    "firstCategoryWinning": [
+        "018235"
+    ],
+    "secondCategoryName": "1800000TL Kazanan Numara",
+    "secondCategoryWinning": [
+        "005003"
+    ],
+    "categories": [
+        {
+            "category": "Amorti",
+            "idCategory": "11",
+            "numberExtract": "1",
+            "totalExtraction": "2",
+            "categoryType": "A",
+            "winningSeries": [
+                "0",
+                "9"
+            ]
+        },
+        {
+            "category": "320000TL Kazanan Numara",
+            "idCategory": "3",
+            "numberExtract": "6",
+            "totalExtraction": "2",
+            "categoryType": "D",
+            "winningSeries": [
+                "046802",
+                "423982"
+            ]
+        },
+        {
+            "category": "40000TL Kazanan Numaralar",
+            "idCategory": "4",
+            "numberExtract": "6",
+            "totalExtraction": "10",
+            "categoryType": "D",
+            "winningSeries": [
+                "079473",
+                "079580",
+                "127263",
+                "319130",
+                "347533",
+                "413905",
+                "465303",
+                "525868",
+                "573528",
+                "596243"
+            ]
+        },
+        {
+            "category": "20000TL Kazanan Numaralar",
+            "idCategory": "5",
+            "numberExtract": "6",
+            "totalExtraction": "10",
+            "categoryType": "D",
+            "winningSeries": [
+                "116063",
+                "187045",
+                "218362",
+                "236651",
+                "294744",
+                "370434",
+                "393748",
+                "431325",
+                "452909",
+                "534090"
+            ]
+        },
+        {
+            "category": "10000TL Kazanan Numaralar",
+            "idCategory": "6",
+            "numberExtract": "6",
+            "totalExtraction": "10",
+            "categoryType": "D",
+            "winningSeries": [
+                "005126",
+                "109546",
+                "137613",
+                "265702",
+                "285007",
+                "343412",
+                "349967",
+                "462649",
+                "545423",
+                "549334"
+            ]
+        },
+        {
+            "category": "Teselli",
+            "idCategory": "12",
+            "numberExtract": "6",
+            "totalExtraction": "50",
+            "categoryType": "T",
+            "winningSeries": [
+                "008235",
+                "010235",
+                "011235",
+                "012235",
+                "013235",
+                "014235",
+                "015235",
+                "016235",
+                "017235",
+                "018035",
+                "018135",
+                "018205",
+                "018215",
+                "018225",
+                "018230",
+                "018231",
+                "018232",
+                "018233",
+                "018234",
+                "018236",
+                "018237",
+                "018238",
+                "018239",
+                "018245",
+                "018255",
+                "018265",
+                "018275",
+                "018285",
+                "018295",
+                "018335",
+                "018435",
+                "018535",
+                "018635",
+                "018735",
+                "018835",
+                "018935",
+                "019235",
+                "028235",
+                "038235",
+                "048235",
+                "058235",
+                "068235",
+                "078235",
+                "088235",
+                "098235",
+                "118235",
+                "218235",
+                "318235",
+                "418235",
+                "518235"
+            ]
+        }
+    ],
+    "reportURL": "gntn-bs-api/api/info/v1/report/105/72"
+}

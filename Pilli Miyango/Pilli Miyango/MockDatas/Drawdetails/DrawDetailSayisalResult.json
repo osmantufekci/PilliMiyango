@@ -1,0 +1,124 @@
+{
+    "number": "76",
+    "dateDetails": "06/26/2023",
+    "timeDetails": "21:30",
+    "winningNumber": [
+        51,
+        64,
+        69,
+        70,
+        78,
+        85
+    ],
+    "numberJolly": [
+        42
+    ],
+    "superstar": [
+        82
+    ],
+    "tableResult": [
+        {
+            "numbersMatched": "6",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "227012873710"
+        },
+        {
+            "numbersMatched": "5+1",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "0"
+        },
+        {
+            "numbersMatched": "5",
+            "totalWinners": "2",
+            "prizeWinner": "450446300",
+            "prizeFound": "9008926000"
+        },
+        {
+            "numbersMatched": "4",
+            "totalWinners": "231",
+            "prizeWinner": "3899950",
+            "prizeFound": "9008884500"
+        },
+        {
+            "numbersMatched": "3",
+            "totalWinners": "9026",
+            "prizeWinner": "249500",
+            "prizeFound": "22519870000"
+        },
+        {
+            "numbersMatched": "2",
+            "totalWinners": "144867",
+            "prizeWinner": "23300",
+            "prizeFound": "33754011000"
+        }
+    ],
+    "tableResultSuperstar": [
+        {
+            "numbersMatched": "6+SüperStar",
+            "totalWinners": "0",
+            "prizeWinner": "0"
+        },
+        {
+            "numbersMatched": "5+1+SüperStar",
+            "totalWinners": "0",
+            "prizeWinner": "0"
+        },
+        {
+            "numbersMatched": "5+SüperStar",
+            "totalWinners": "0",
+            "prizeWinner": "0"
+        },
+        {
+            "numbersMatched": "4+SüperStar",
+            "totalWinners": "0",
+            "prizeWinner": "0"
+        },
+        {
+            "numbersMatched": "3+SüperStar",
+            "totalWinners": "24",
+            "prizeWinner": "24950000"
+        },
+        {
+            "numbersMatched": "2+SüperStar",
+            "totalWinners": "382",
+            "prizeWinner": "300000"
+        },
+        {
+            "numbersMatched": "1+SüperStar",
+            "totalWinners": "2501",
+            "prizeWinner": "30000"
+        },
+        {
+            "numbersMatched": "0+SüperStar",
+            "totalWinners": "5398",
+            "prizeWinner": "15000"
+        }
+    ],
+    "winningNumberL1": [
+        51,
+        64,
+        69,
+        70,
+        78,
+        85
+    ],
+    "winningNumberL2": [
+        51,
+        64,
+        69,
+        70,
+        78,
+        85
+    ],
+    "winningNumberL3": [
+        51,
+        64,
+        69,
+        70,
+        78,
+        85
+    ],
+    "jackpot": "227744848950"
+}

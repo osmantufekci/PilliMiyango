@@ -1,0 +1,39 @@
+
+{
+    "id": "103",
+    "jackpotTotal": "378679500",
+    "latestDrawL1": [
+        5,
+        7,
+        10,
+        12,
+        13,
+        15,
+        16
+    ],
+    "latestDrawL2": [
+        18,
+        21,
+        34,
+        43,
+        51,
+        53,
+        61,
+        64
+    ],
+    "latestDrawL3": [
+        66,
+        72,
+        73,
+        75,
+        76,
+        77,
+        79
+    ],
+    "latestDrawNumber": 91,
+    "latestDrawDate": "11/13/2023",
+    "latestDrawTime": "20:00",
+    "nextDrawNumber": 92,
+    "drawTimestamp": 1700499600000,
+    "currentDate": "2023-11-14T14:42:27.068004"
+}

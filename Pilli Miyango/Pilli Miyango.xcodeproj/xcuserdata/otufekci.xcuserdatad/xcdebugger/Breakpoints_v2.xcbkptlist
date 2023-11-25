@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "25918896-06EF-4E02-9E29-DA97377CA4B3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5E35194-F9F9-47E4-9ABF-E01CE970FFC5"
+            shouldBeEnabled = "Yes"
+            condition = "type == .SayisalLoto"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pilli Miyango/Views/TabView/ListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

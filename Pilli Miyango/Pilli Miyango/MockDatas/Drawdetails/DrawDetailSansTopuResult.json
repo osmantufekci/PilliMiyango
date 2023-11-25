@@ -1,0 +1,94 @@
+{
+    "number": "92",
+    "dateDetails": "11/15/2023",
+    "timeDetails": "20:00",
+    "winningNumber": [
+        2,
+        16,
+        17,
+        22,
+        33
+    ],
+    "numberJolly": [
+        3
+    ],
+    "superstar": [],
+    "tableResult": [
+        {
+            "numbersMatched": "5p1",
+            "totalWinners": "0",
+            "prizeWinner": "0",
+            "prizeFound": "1257731240"
+        },
+        {
+            "numbersMatched": "5",
+            "totalWinners": "6",
+            "prizeWinner": "12839550",
+            "prizeFound": "770373000"
+        },
+        {
+            "numbersMatched": "4p1",
+            "totalWinners": "64",
+            "prizeWinner": "1203700",
+            "prizeFound": "770368000"
+        },
+        {
+            "numbersMatched": "4",
+            "totalWinners": "855",
+            "prizeWinner": "112600",
+            "prizeFound": "962730000"
+        },
+        {
+            "numbersMatched": "3p1",
+            "totalWinners": "2171",
+            "prizeWinner": "53200",
+            "prizeFound": "1154972000"
+        },
+        {
+            "numbersMatched": "3",
+            "totalWinners": "25306",
+            "prizeWinner": "18250",
+            "prizeFound": "4618345000"
+        },
+        {
+            "numbersMatched": "2p1",
+            "totalWinners": "19080",
+            "prizeWinner": "22200",
+            "prizeFound": "4235760000"
+        },
+        {
+            "numbersMatched": "1p1",
+            "totalWinners": "62548",
+            "prizeWinner": "10750",
+            "prizeFound": "6723910000"
+        },
+        {
+            "numbersMatched": "0p1",
+            "totalWinners": "60117",
+            "prizeWinner": "11200",
+            "prizeFound": "6733104000"
+        }
+    ],
+    "winningNumberL1": [
+        2,
+        16,
+        17,
+        22,
+        33
+    ],
+    "winningNumberL2": [
+        2,
+        16,
+        17,
+        22,
+        33
+    ],
+    "winningNumberL3": [
+        2,
+        16,
+        17,
+        22,
+        33
+    ],
+    "jackpot": "1257731240"
+}
